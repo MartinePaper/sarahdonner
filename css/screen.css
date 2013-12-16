@@ -5,9 +5,11 @@
 
 /* line 8, ../sass/screen.scss */
 body {
+    height: 100%;
 }
 
 html {
+    height:100%;
 }
 
 a {
