@@ -1,3 +1,7 @@
+html {
+    height:100%;
+}
+
 /* line 4, ../sass/screen.scss */
 * {
   background-repeat: no-repeat;
@@ -6,10 +10,6 @@
 /* line 8, ../sass/screen.scss */
 body {
     height: 100%;
-}
-
-html {
-    height:100%;
 }
 
 a {
